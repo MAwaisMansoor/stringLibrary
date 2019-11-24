@@ -1,4 +1,4 @@
 # stringLibrary
-This is the String Library updated
+This is the String Library
 
 
